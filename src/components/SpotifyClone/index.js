@@ -6,7 +6,8 @@ class SpotifyClone extends Component {
   render() {
     return (
       <div>
-        SPOTIFY CLONE hi<h1>hello</h1>
+        SPOTIFY CLONE<h1>hi</h1>
+        <h1>2</h1>
       </div>
     )
   }
